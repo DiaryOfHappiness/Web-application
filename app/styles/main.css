@@ -1,0 +1,87 @@
+
+
+
+
+.about-section {
+  height: 100%;
+  padding-top: 130px;
+  text-align: center;
+  background: #eee;
+}
+
+.icon-container .icon{
+  display: inline-block;
+  margin: 0px 45px 30px 0px;
+}
+.icon-container .icon span{
+  font-size: 20px;
+}
+
+.icon-container .icon i {
+  margin: 0 auto;
+}
+
+body .services-section {
+  /*background-image: url(../images/cofee-1400.jpg);*/
+}
+
+.about-section .about h1, .services-section .prospects h1 {
+  /*font-family: "Open Sans",League Gothic,TimesNewRoman,sans-serif;*/
+  font-weight: bold;
+  font-size: 50px;
+  margin-bottom: 60px;
+}
+
+
+
+
+
+
+/*SPRITES*/
+.sprite {
+  background-image: url(../images/icons-sprite.png);
+  background-repeat: no-repeat;
+  display: block;
+}
+
+.sprite-appreciation {
+  width: 128px;
+  height: 128px;
+  background-position: -5px -5px;
+}
+
+.sprite-calendar {
+  width: 128px;
+  height: 128px;
+  background-position: -143px -5px;
+}
+
+.sprite-clock {
+  width: 128px;
+  height: 128px;
+  background-position: -5px -143px;
+}
+
+.sprite-concentration {
+  width: 128px;
+  height: 128px;
+  background-position: -143px -143px;
+}
+
+.sprite-graph {
+  width: 128px;
+  height: 128px;
+  background-position: -281px -5px;
+}
+
+.sprite-heart {
+  width: 128px;
+  height: 128px;
+  background-position: -281px -143px;
+}
+
+.sprite-notes {
+  width: 128px;
+  height: 128px;
+  background-position: -5px -281px;
+}
